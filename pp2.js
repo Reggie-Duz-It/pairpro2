@@ -17,3 +17,8 @@ let myPrimeArray = newArray.filter(num => {
     return num !== 1;
 })
 console.log(myPrimeArray);
+
+//Question 3
+
+//The answer is q21 
+////xxxxxxxxxxxxxx
